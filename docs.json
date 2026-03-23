@@ -21,7 +21,7 @@
       }
     ]
   },"description":"Всё что нужно знать!","favicon":"/images/dw-new.png","logo":"/images/dw-new.png","background":{
-    "decoration": "grid"
+    "decoration": "windows"
   },"appearance":{
     "default": "dark",
     "strict": true
