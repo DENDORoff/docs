@@ -11,12 +11,12 @@
       }
     ]
   },"description":"Всё что нужно знать!","favicon":"/images/dw-new.png","logo":"/images/dw-new.png","background":{
-    "decoration": "grid"
+    "decoration": "windows"
   },"appearance":{
     "default": "dark",
     "strict": true
   },"fonts":{
-    "family": "Sora",
+    "family": "Outfit",
     "weight": 200,
     "format": "woff"
   },"footer":{"socials":{"discord":"https://discord.deworld.su","telegram":"https://telegram.deworld.su","youtube":"https://youtube.deworld.su","website":"https://deworld.su"}},"errors":{"404":{"title":"Упс...","description":"Страница не нашлась"}},"interaction":{"drilldown":true},"metadata":{"timestamp":true},"seo":{"indexing":"all"},"api":{"playground":{"display":"interactive"}},"search":{"prompt":"Поиск или вопрос..."},"thumbnails":{"appearance":"dark","background":"/images/Обои.jpg"},"styling":{"eyebrows":"section","latex":true},"icons":{"library":"tabler"}}
