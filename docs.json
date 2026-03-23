@@ -33,9 +33,6 @@
     "weight": 100,
     "format": "woff"
   },
-  "banner": {
-    "dismissible": true
-  },
   "footer": {
     "socials": {
       "discord": "https://discord.deworld.su",
