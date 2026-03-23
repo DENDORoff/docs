@@ -1,4 +1,4 @@
-{"$schema":"https://mintlify.com/docs.json","theme":"luma","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
+{"$schema":"https://mintlify.com/docs.json","theme":"sequoia","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
     "groups": [
       {
         "group": "Администрирование Minecraft сервераа",
