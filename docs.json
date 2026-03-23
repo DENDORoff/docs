@@ -9,11 +9,15 @@
       },
       {
         "group": "DwPlugins",
-        "pages": []
+        "pages": [
+          "skoro"
+        ]
       },
       {
         "group": "Механики DEWORLD",
-        "pages": []
+        "pages": [
+          "skoro-1"
+        ]
       }
     ]
   },"description":"Всё что нужно знать!","favicon":"/images/dw-new.png","logo":"/images/dw-new.png","background":{
