@@ -1,9 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Documentation",
+  "name": "DEWORLD",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#000000"
   },
   "navigation": {
     "groups": [
@@ -12,5 +14,57 @@
         "pages": []
       }
     ]
+  },
+  "description": "Всё что нужно о нем знать",
+  "favicon": "/images/dw-new.png",
+  "logo": "/images/dw-new.png",
+  "background": {
+    "image": "/images/Обои.jpg",
+    "decoration": "gradient"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "fonts": {
+    "family": "Roboto",
+    "weight": 100,
+    "format": "woff"
+  },
+  "navbar": {
+    "links": []
+  },
+  "banner": {
+    "dismissible": true
+  },
+  "errors": {
+    "404": {
+      "title": "Упс...",
+      "description": "Страница не нашлась..."
+    }
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "interaction": {
+    "drilldown": true
+  },
+  "styling": {
+    "latex": true,
+    "eyebrows": "section"
+  },
+  "thumbnails": {
+    "background": "/images/dw-new.png",
+    "appearance": "dark"
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.deworld.su",
+      "telegram": "https://telegram.deworld.su",
+      "youtube": "https://youtube.deworld.su",
+      "website": "https://deworld.su"
+    }
   }
 }
