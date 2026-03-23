@@ -1,3 +1,16 @@
-{"$schema":"https://mintlify.com/docs.json","theme":"maple","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{"groups":[{"group":"Введение","icon":"book","hidden":true,"expanded":true,"pages":[]}]},"description":"Всё что нужно знать!","favicon":"/images/dw-new.png","logo":"/images/dw-new.png","background":{
+{"$schema":"https://mintlify.com/docs.json","theme":"maple","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
+    "groups": [
+      {
+        "group": "Администрирование Minecraft сервераа",
+        "icon": "book",
+        "hidden": true,
+        "expanded": true,
+        "pages": [
+          "sozdanie-minecraft-servera",
+          "detalnaya-optimizatsiya-yader-i-plaginov"
+        ]
+      }
+    ]
+  },"description":"Всё что нужно знать!","favicon":"/images/dw-new.png","logo":"/images/dw-new.png","background":{
     "decoration": "gradient"
   },"appearance":{"default":"dark"},"fonts":{"family":"Roboto","weight":100,"format":"woff"},"footer":{"socials":{"discord":"https://discord.deworld.su","telegram":"https://telegram.deworld.su","youtube":"https://youtube.deworld.su","website":"https://deworld.su"}},"errors":{"404":{"title":"Упс...","description":"Страница не нашлась"}},"interaction":{"drilldown":true},"metadata":{"timestamp":true},"seo":{"indexing":"all"},"api":{"playground":{"display":"interactive"}},"search":{"prompt":"Поиск или вопрос..."},"thumbnails":{"appearance":"dark","background":"/images/Обои.jpg"},"styling":{"eyebrows":"section","latex":true},"icons":{"library":"tabler"}}
