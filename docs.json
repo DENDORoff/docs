@@ -1,12 +1,22 @@
 {"$schema":"https://mintlify.com/docs.json","theme":"sequoia","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
-    "groups": [
+    "anchors": [
       {
-        "group": "Администрирование Minecraft сервераа",
-        "icon": "book",
-        "expanded": true,
-        "pages": [
-          "sozdanie-minecraft-servera",
-          "detalnaya-optimizatsiya-yader-i-plaginov"
+        "anchor": "DEWORLD",
+        "tabs": [
+          {
+            "tab": "Untitled Tab",
+            "groups": [
+              {
+                "group": "Администрирование Minecraft сервераа",
+                "icon": "book",
+                "expanded": true,
+                "pages": [
+                  "sozdanie-minecraft-servera",
+                  "detalnaya-optimizatsiya-yader-i-plaginov"
+                ]
+              }
+            ]
+          }
         ]
       }
     ]
