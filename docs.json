@@ -3,7 +3,6 @@
       {
         "group": "Администрирование Minecraft сервераа",
         "icon": "book",
-        "hidden": true,
         "expanded": true,
         "pages": [
           "sozdanie-minecraft-servera",
