@@ -1,22 +1,14 @@
 {"$schema":"https://mintlify.com/docs.json","theme":"linden","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
-    "groups": [
+    "dropdowns": [
       {
-        "group": "Minecraft сервера",
+        "dropdown": "Название",
+        "color": {
+          "light": "#000000",
+          "dark": "#000000"
+        },
+        "description": "Описание",
         "pages": [
-          "sozdanie-servera",
-          "optimizatsiya-servera"
-        ]
-      },
-      {
-        "group": "DwPlugins",
-        "pages": [
-          "skoro"
-        ]
-      },
-      {
-        "group": "Механики DEWORLD",
-        "pages": [
-          "skoro-1"
+          "test"
         ]
       }
     ]
