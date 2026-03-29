@@ -1,14 +1,14 @@
 {"$schema":"https://mintlify.com/docs.json","theme":"linden","name":"DEWORLD","colors":{"primary":"#000000","light":"#ffffff","dark":"#000000"},"navigation":{
-    "dropdowns": [
+    "anchors": [
       {
-        "dropdown": "Название",
+        "anchor": "Якорь",
+        "icon": "badge-check",
         "color": {
           "light": "#000000",
           "dark": "#000000"
         },
-        "description": "Описание",
         "pages": [
-          "test"
+          "123"
         ]
       }
     ]
